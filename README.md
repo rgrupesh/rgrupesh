@@ -15,4 +15,7 @@
 <a href="https://www.linkedin.com/in/rupeshgelal/">
   <img align="left" alt="Rupesh Gelal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.instagram.com/_rochambeau/">
+  <img align="left" alt="Rupesh Gelal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
