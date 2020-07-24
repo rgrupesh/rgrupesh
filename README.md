@@ -4,3 +4,11 @@
 
 ### I am Rupesh Gelal.
 
+
+<a href="https://twitter.com/2L8IWUN_">
+  <img align="left" alt="Rupesh Gelal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rupeshgelal/">
+  <img align="left" alt="Rupesh Gelal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
