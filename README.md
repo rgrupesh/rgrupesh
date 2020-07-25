@@ -6,7 +6,7 @@
 - I'm CSE Undergrad.
 - I’m currently working on Web Development and Machine Learning projects.
 - I write [here](https://rupeshgelal.com.np/blog/).
-- I’m willing to collaborate on building communitites, and research projects in ML.
+- I’m willing to collaborate on research projects in the field of ML/DL.
 
 
 <a href="https://twitter.com/2L8IWUN_">
