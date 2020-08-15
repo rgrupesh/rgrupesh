@@ -19,5 +19,4 @@
   <img align="left" alt="Rupesh Gelal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
