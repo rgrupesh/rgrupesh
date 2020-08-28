@@ -18,6 +18,6 @@
 <a href="https://www.instagram.com/_rochambeau/">
   <img align="left" alt="Rupesh Gelal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-![](https://komarev.com/ghpvc/?rgrupesh)
+![](https://komarev.com/ghpvc/rgrupesh)
 
 
