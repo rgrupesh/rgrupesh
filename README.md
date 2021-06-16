@@ -4,9 +4,9 @@
 
 ### I am Rupesh Gelal.
 - I'm CSE Undergrad.
-- I’m currently working on Web Development and Machine Learning projects.
+- I’m currently working on Web Development,Blockchain,and Machine Learning projects.
 - I write [here](https://rupeshgelal.com.np/posts-and-articles).
-- I’m willing to collaborate on research projects in the field of ML/DL.
+- I’m willing to collaborate on research projects in the field of ML/DL and Blockchain.
 
 
 <a href="https://twitter.com/2L8IWUN_">
